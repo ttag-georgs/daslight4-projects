@@ -1,0 +1,3 @@
+- dunkeler Anfang (LED Bars)
+- Moving heads für Farbe
+- Nur von vorne wegen Schatten
